@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/desafio-esto-es-front-deploy/static/css/main.d73533d8.chunk.css",
+    "main.js": "/desafio-esto-es-front-deploy/static/js/main.fdf95c14.chunk.js",
+    "main.js.map": "/desafio-esto-es-front-deploy/static/js/main.fdf95c14.chunk.js.map",
+    "runtime-main.js": "/desafio-esto-es-front-deploy/static/js/runtime-main.1039910f.js",
+    "runtime-main.js.map": "/desafio-esto-es-front-deploy/static/js/runtime-main.1039910f.js.map",
+    "static/js/2.a921f4cd.chunk.js": "/desafio-esto-es-front-deploy/static/js/2.a921f4cd.chunk.js",
+    "static/js/2.a921f4cd.chunk.js.map": "/desafio-esto-es-front-deploy/static/js/2.a921f4cd.chunk.js.map",
+    "index.html": "/desafio-esto-es-front-deploy/index.html",
+    "precache-manifest.5e0be8ed8475328f6ce2b3716ee1ea4b.js": "/desafio-esto-es-front-deploy/precache-manifest.5e0be8ed8475328f6ce2b3716ee1ea4b.js",
+    "service-worker.js": "/desafio-esto-es-front-deploy/service-worker.js",
+    "static/css/main.d73533d8.chunk.css.map": "/desafio-esto-es-front-deploy/static/css/main.d73533d8.chunk.css.map",
+    "static/js/2.a921f4cd.chunk.js.LICENSE.txt": "/desafio-esto-es-front-deploy/static/js/2.a921f4cd.chunk.js.LICENSE.txt",
+    "static/media/messi.jpg": "/desafio-esto-es-front-deploy/static/media/messi.60dbe62e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1039910f.js",
+    "static/js/2.a921f4cd.chunk.js",
+    "static/css/main.d73533d8.chunk.css",
+    "static/js/main.fdf95c14.chunk.js"
+  ]
+}
